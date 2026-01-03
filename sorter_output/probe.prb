@@ -1,0 +1,11 @@
+channel_groups = {
+    0:
+        {
+           'channels': [np.int64(0), np.int64(1), np.int64(2)],
+           'geometry':  {
+               0: [np.float64(840.0), np.float64(0.0)],
+               1: [np.float64(860.0), np.float64(0.0)],
+               2: [np.float64(840.0), np.float64(20.0)],
+           }
+       },
+}

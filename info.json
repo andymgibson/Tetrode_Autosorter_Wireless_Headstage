@@ -1,0 +1,31 @@
+{
+    "tridesclous_version": "1.6.9",
+    "datasource_type": "RawData",
+    "datasource_kargs": {
+        "filenames": [
+            "/Users/andrewgibson/Neural Crossroads Lab/Trisdesclous Autosorter Sanford Tether/AG_Autosort_Outputs_DL/CH4a_Day1_ArenaFinal_09282023_DL/tridesclous_output/20251228_201149/7/sorter_output/raw_signals_0.raw"
+        ],
+        "dtype": "<f4",
+        "sample_rate": 40000.0,
+        "total_channel": 3,
+        "offset": 0
+    },
+    "datasource_info": {
+        "total_channel": 3,
+        "nb_segment": 1,
+        "sample_rate": 40000.0,
+        "source_dtype": "float32",
+        "all_channel_names": [
+            "ch0",
+            "ch1",
+            "ch2"
+        ],
+        "segment_shapes": [
+            [
+                52972292,
+                3
+            ]
+        ]
+    },
+    "probe_filename": "probe.prb"
+}
